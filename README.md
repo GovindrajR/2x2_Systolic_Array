@@ -58,8 +58,6 @@ Expected: [19, 22]
 
 
 
-> Note: See /images for the behavioral simulation waveform demonstrating the skewed injection.
-
 ### 📈 Synthesis & Implementation Results
 
 Synthesized and Implemented using Xilinx Vivado targeting a generic FPGA architecture.
