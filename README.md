@@ -48,11 +48,10 @@ Simulation Output (Vivado XSIM):
 
 Starting Matrix Multiplication...
 
-===============================
 FINAL OUTPUT MATRIX (Y):
 [         19,          22]
 [         43,          50]
-===============================
+
 Expected: [19, 22]
           [43, 50]
 
